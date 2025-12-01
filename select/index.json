@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "喧騒 feat. Aile The Shota",
+  "base_artist": "椎乃味醂",
+  "createdAt": "2025-12-01T12:37:58.361405Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "喧騒映す柳の瀬",
+      "artist": "杏仁クルーエル",
+      "has_synced": false,
+      "path": "select/pl_01_喧騒映す柳の瀬_杏仁クルーエル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "喧騒の中で",
+      "artist": "杏仁クルーエル",
+      "has_synced": false,
+      "path": "select/pl_02_喧騒の中で_杏仁クルーエル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "喧騒",
+      "artist": "杏仁クルーエル",
+      "has_synced": false,
+      "path": "select/pl_03_喧騒_杏仁クルーエル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "喧騒 feat. Aile The Shota",
+      "artist": "杏仁クルーエル",
+      "has_synced": false,
+      "path": "select/pl_04_喧騒_feat._Aile_The_Shota_杏仁クルーエル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "喧騒 feat. Aile The Shota",
+      "artist": "杏仁クルーエル",
+      "has_synced": false,
+      "path": "select/pl_05_喧騒_feat._Aile_The_Shota_杏仁クルーエル.txt"
+    }
+  ]
+}
